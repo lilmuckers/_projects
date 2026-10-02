@@ -1,0 +1,12 @@
+{
+  "$schema": "https://tasks.patrick-mckinley.com/schema/world.schema.json",
+  "id": "the-loft",
+  "name": "The loft",
+  "theme": "castle",
+  "goalIds": [
+    "destroy-the-moths"
+  ],
+  "levelOrder": [
+    "first-steps"
+  ]
+}

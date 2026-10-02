@@ -1,0 +1,16 @@
+{
+  "$schema": "https://tasks.patrick-mckinley.com/schema/level.schema.json",
+  "id": "first-steps",
+  "name": "First steps",
+  "deliverable": "First steps",
+  "timeboxDays": 7,
+  "successCriteria": [
+    {
+      "id": "moth-quantity-drops",
+      "mvp": true,
+      "text": "Moth quantity drops.",
+      "done": false
+    }
+  ],
+  "items": []
+}

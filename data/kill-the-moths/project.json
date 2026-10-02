@@ -1,0 +1,14 @@
+{
+  "$schema": "https://tasks.patrick-mckinley.com/schema/project.schema.json",
+  "id": "kill-the-moths",
+  "title": "Kill the moths!",
+  "goals": [
+    {
+      "id": "destroy-the-moths",
+      "title": "Destroy the moths"
+    }
+  ],
+  "worldOrder": [
+    "the-loft"
+  ]
+}
